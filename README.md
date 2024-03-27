@@ -8,10 +8,10 @@ Features
 - Submit Reviews: Submit reviews for existing Pokémon, including content, star rating, and title.
 
 Technologies Used
-Framework: Spring Boot
-Database: Hibernate ORM with PostgreSQL
-API Documentation: Swagger UI
-Build Tool: Maven
+- Framework: Spring Boot
+- Database: Hibernate ORM with PostgreSQL
+- API Documentation: Swagger UI
+- Build Tool: Maven
 
 Getting Started
 To get started with the Pokémon Review API, follow these steps:
