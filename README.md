@@ -17,7 +17,7 @@ Getting Started
 
 To get started with the Pokémon Review API, follow these steps:
 
-1. Clone the Repository: git clone https://github.com/yourusername/pokemon-review-api.git
+1. Clone the Repository: git clone https://github.com/linimary/pokemon-review-api.git
 2. Navigate to the Project Directory: cd pokemon-review-api
 3. Build the Project: mvn clean install
 4. Run the Application: mvn spring-boot:run
