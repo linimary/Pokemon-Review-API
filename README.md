@@ -24,10 +24,7 @@ To get started with the Pokémon Review API, follow these steps:
 5. Access the API Documentation: Open your web browser and go to http://localhost:8080/swagger-ui/index.html to view and interact with the API endpoints.
 
 ## API Endpoints
-- GET /api/pokemon: Retrieve all Pokémon.
-- POST /api/pokemon: Add a new Pokémon.
-- GET /api/pokemon/{id}: Retrieve a Pokémon by its ID.
-- POST /api/review: Submit a review for a Pokémon.
-- GET /api/review/{id}: Retrieve a review by its ID.
-- GET /api/pokemon/{id}/reviews: Retrieve all reviews for a Pokémon by its ID.
+
+![pokemon-review-api](https://github.com/linimary/Pokemon_Review_API/assets/125043957/c2183438-b16d-4557-bb69-0504b1a26c59)
+
   
